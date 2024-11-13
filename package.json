@@ -1,0 +1,14 @@
+{
+  "name": "tuio-test-website",
+  "version": "1.0.0",
+  "description": "Simple TUIO touch testing website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.4.1",
+    "osc": "^2.4.2"
+  }
+}
